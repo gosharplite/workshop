@@ -15,4 +15,4 @@ EXPOSE 80
 ENTRYPOINT ["/duck"]
 ```
 - Push and pull your image from docker hub.
-- docker run your image and check your container works.
+- docker run your image and check your container actually works.
