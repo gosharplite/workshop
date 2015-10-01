@@ -1,4 +1,5 @@
-# 2. Dockerize http server binary.
+# Http server
+## 2. Dockerize http server binary.
 - [Install latest docker engine](http://docs.docker.com/installation/ubuntulinux/) (link to ubuntu as an example).
 - Learn basic [docker commands](http://docs.docker.com/userguide/) and [docker hub](http://docs.docker.com/docker-hub/).
   - docker run
