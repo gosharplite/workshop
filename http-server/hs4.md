@@ -1,5 +1,5 @@
 # Http server
-## 4. Create Kubernetes replica-controller and service setup files.
+## 4. Access Kubernetes cluster.
 - Understand [Kubernetes architecture](https://github.com/kubernetes/kubernetes/blob/master/docs/design/architecture.md).
 - Understand different ways to [access the cluster](https://github.com/kubernetes/kubernetes/blob/master/docs/user-guide/accessing-the-cluster.md).
 - Get command line binary `kubectl` and credential file `config`.
