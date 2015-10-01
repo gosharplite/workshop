@@ -8,3 +8,5 @@
   - $ docker rmi 10.128.3.11:5000/duck:v4
   - $ docker pull 10.128.3.11:5000/duck:v4
   - $ docker run --publish 8093:8092 10.128.3.11:5000/duck:v4 -port=8092
+- Check your computer is now listening at port 9093.
+  - $ sudo netstat -ntlp
