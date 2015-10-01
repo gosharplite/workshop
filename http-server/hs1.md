@@ -3,7 +3,7 @@
 - Download and install the Go distribution
   - [Getting Started](https://golang.org/doc/install)
   - [Code organization](https://golang.org/doc/code.html#Organization)
-- Use below code to compile binary.
+- Compile a binary by using below codes.
 ```
 package main
 
