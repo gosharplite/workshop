@@ -8,7 +8,7 @@
   - docker build
   - docker push
   - docker tag
-- Use below Dockerfile example to create your own docker image.
+- Use below Dockerfile as an example to create your own docker image.
 ```
 FROM google/debian:wheezy
 ADD duck duck
