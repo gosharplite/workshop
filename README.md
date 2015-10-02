@@ -4,7 +4,7 @@
 2. [Dockerize http server binary.](http-server/hs2.md)
 3. [Push image into private docker registry.](http-server/hs3.md)
 4. [Access Kubernetes cluster.](http-server/hs4.md)
-5. Create Kubernetes replica-controller and service setup files.
+5. [Create Kubernetes replica-controller and service setup files.](http-server/hs5.md)
 6. Deploy http server on Kubernetes.
 7. Scale http server.
 
