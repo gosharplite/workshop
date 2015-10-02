@@ -9,6 +9,6 @@
 7. [Scale http server.](http-server/hs7.md)
 
 ## Guestbook
-1. Download frontend, master/slave redis setup files.
+1. Create frontend, master/slave redis setup files.
 2. Deploy guestbook.
 3. Scale guestbook.
