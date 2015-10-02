@@ -6,7 +6,7 @@
 4. [Access Kubernetes cluster.](http-server/hs4.md)
 5. [Create Kubernetes replica-controller and service setup files.](http-server/hs5.md)
 6. [Deploy http server on Kubernetes.](http-server/hs6.md)
-7. Scale http server.
+7. [Scale http server.](http-server/hs7.md)
 
 ## Guestbook
 1. Download frontend, master/slave redis setup files.
