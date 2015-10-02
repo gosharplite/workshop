@@ -1,8 +1,9 @@
 # Http server
 ## 5. Create Kubernetes replica-controller and service setup files.
 - Read [Kubernetes overview](http://kubernetes.io/v1.0/docs/user-guide/overview.html) in the official user's guide.
-- Use below example and create file `controller.yaml`.
-  - Change
+- Use below example and create replication controller file `controller.yaml`.
+  - Pick a name and change all `sitting-duck` in the file.
+  - Change the `containers` section with your docker image.
 ```
 apiVersion: v1
 kind: ReplicationController
