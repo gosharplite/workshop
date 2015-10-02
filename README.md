@@ -10,5 +10,5 @@
 
 ## Guestbook
 1. [Create frontend, master/slave redis setup files.](guestbook/g1.md)
-2. Deploy guestbook.
+2. [Deploy guestbook.](guestbook/g2.md)
 3. Scale guestbook.
