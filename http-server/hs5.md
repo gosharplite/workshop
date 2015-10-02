@@ -30,3 +30,28 @@ spec:
         ports:
         - containerPort: 80
 ```
+- Use below example and create service file `service.json`.
+  - Use the same name you pick previously and change all `sitting-duck` in the file.
+```
+{
+   "kind":"Service",
+   "apiVersion":"v1",
+   "metadata":{
+      "name":"sitting-duck",
+      "labels":{
+         "name":"sitting-duck"
+      }
+   },
+   "spec":{
+      "ports": [
+        {
+          "port":80
+        }
+      ],
+      "selector":{
+         "name":"sitting-duck"
+      },
+      "type": "NodePort"
+   }
+}
+```
