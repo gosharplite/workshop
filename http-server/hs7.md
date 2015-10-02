@@ -1,7 +1,7 @@
 # Http server
 ## 7. Scale http server.
 - A pod can be scaled by directly issue kubectl command.
-  - $ ./kubectl scale --replicas=3 replicationcontrollers <name of your replication controller>
+  - $ ./kubectl scale --replicas=3 replicationcontrollers sitting-duck
   - $ ./kubectl get po
 ```
 NAME                 READY     STATUS    RESTARTS   AGE
