@@ -7,4 +7,6 @@
   - $ ./kubectl get po
 - Create service object in Kubernetes.
   - $ ./kubectl create -f service.json
-  - 
+- Observe your creations.
+  - $ ./kubectl get se
+- 
