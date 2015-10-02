@@ -1,6 +1,6 @@
 # Http server
 ## 4. Access Kubernetes cluster.
-- Understand [Kubernetes architecture](https://github.com/kubernetes/kubernetes/blob/master/docs/design/architecture.md).
+- Understand [Kubernetes architecture](http://kubernetes.io/v1.0/docs/design/architecture.html).
 - Understand different ways to [access the cluster](https://github.com/kubernetes/kubernetes/blob/master/docs/user-guide/accessing-the-cluster.md).
 - Get command line binary `kubectl` and credential file `config`.
   - $ `wget http://10.128.3.11:8087/kubernetes/v1.0.6/kubectl`
