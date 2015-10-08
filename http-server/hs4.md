@@ -3,9 +3,9 @@
 - Understand [Kubernetes architecture](http://kubernetes.io/v1.0/docs/design/architecture.html).
 - Understand different ways to [access the cluster](http://kubernetes.io/v1.0/docs/user-guide/accessing-the-cluster.html).
 - Get command line binary `kubectl` and credential file `config`.
-  - $ `wget http://10.128.80.200:8087/kubernetes/v1.0.6/kubectl`
+  - $ `wget http://10.128.112.11:8087/kubernetes/v1.0.6/kubectl`
   - $ sudo chmod +x kubectl
-  - $ `wget http://10.128.80.200:8087/tyd/v0.5/srv/kube-apiserver/config`
+  - $ `wget http://10.128.112.11:8087/tyd/v0.6/srv/kube-apiserver/config`
   - $ ./kubectl version
 - You should see below output.
 ```
