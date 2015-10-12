@@ -11,8 +11,9 @@ $ ./kubectl version
 Client Version: version.Info{Major:"1", Minor:"0", GitVersion:"v1.0.6", GitCommit:"388061f00f0d9e4d641f9ed4971c775e1654579d", GitTreeState:"clean"}
 Server Version: version.Info{Major:"1", Minor:"0", GitVersion:"v1.0.6", GitCommit:"388061f00f0d9e4d641f9ed4971c775e1654579d", GitTreeState:"clean"}
 ```
-- [Dashboard](http://10.128.112.21:30030/)
 - [Guestbook](http://10.128.112.21:30000/)
+- [Dashboard](http://10.128.112.21:30030/)
+- [Motivation](https://github.com/gosharplite/the-new-stack/blob/master/README.md)
 - [Documentation](http://kubernetes.io/v1.0/)
 
 ## Http server
