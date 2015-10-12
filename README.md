@@ -1,6 +1,6 @@
 # Workshops for microservices
 ## Quick start
-- Access Kubernetes cluster by getting command line binary `kubectl` and credential file `config`.
+- Access Kubernetes cluster by using command line binary `kubectl` and credential file `config`.
 ```
 $ mkdir epsilon; cd epsilon
 $ wget http://10.128.112.11:8087/kubernetes/v1.0.6/kubectl
