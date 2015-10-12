@@ -13,7 +13,7 @@ Server Version: version.Info{Major:"1", Minor:"0", GitVersion:"v1.0.6", GitCommi
 ```
 - [Guestbook](http://10.128.112.21:30000/)
 - [Dashboard](http://10.128.112.21:30030/)
-- [Motivation](https://github.com/gosharplite/the-new-stack/blob/master/README.md)
+- [Motivation](https://github.com/gosharplite/the-new-stack/blob/master/README.md#the-new-stack)
 - [Documentation](http://kubernetes.io/v1.0/)
 
 ## Http server
