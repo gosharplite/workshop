@@ -5,6 +5,7 @@
   - $ `wget http://10.128.112.11:8087/kubernetes/v1.0.6/kubectl`
   - $ sudo chmod +x kubectl
   - $ `wget http://10.128.112.11:8087/tyd/v0.6/srv/kube-apiserver/config`
+  - $ export KUBECONFIG="./config"
   - $ ./kubectl version
 - You should see below output.
 ```
