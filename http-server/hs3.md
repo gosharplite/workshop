@@ -6,7 +6,6 @@
   - $ docker pull gosharplite/duck:v4
   - $ docker tag gosharplite/duck:v4 10.128.112.11:5000/duck:v4
   - $ docker push 10.128.112.11:5000/duck:v4
-  - $ docker rmi 10.128.112.11:5000/duck:v4
   - $ docker pull 10.128.112.11:5000/duck:v4
   - $ docker run --publish 8093:8092 10.128.112.11:5000/duck:v4 -port=8092
 - Check your computer is now listening at port 8093.
