@@ -12,7 +12,7 @@ Client Version: version.Info{Major:"1", Minor:"0", GitVersion:"v1.0.6", GitCommi
 Server Version: version.Info{Major:"1", Minor:"0", GitVersion:"v1.0.6", GitCommit:"388061f00f0d9e4d641f9ed4971c775e1654579d", GitTreeState:"clean"}
 ```
 - [Guestbook](http://10.128.112.15:30000/)
-- [Dashboard](http://10.128.112.15:30022/)
+- [Dashboard](http://10.128.112.15:30022/), [swagger](https://10.128.112.15/swagger-ui/)
 - [Motivation](https://github.com/gosharplite/the-new-stack/blob/master/README.md#the-new-stack)
 - [Documentation](http://kubernetes.io/v1.0/)
 - [Shuk's notes](https://github.com/BizShuk/k8s_doc)
