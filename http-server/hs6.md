@@ -24,8 +24,8 @@ Endpoints:		10.1.58.9:80
 Session Affinity:	None
 No events.
 ```
-- In the above service description, NodePort is `30010`. Since our worker host ip is `10.128.112.21`, this http server can be reached at `10.128.112.21:30010`. You should have a different NodePort, since it is auto assigned by Kubernetes.
-  - $ curl 10.128.112.21:30010
+- In the above service description, NodePort is `30010`. Since our worker host ip is `10.128.112.26`, this http server can be reached at `10.128.112.26:30010`. You should have a different NodePort, since it is auto assigned by Kubernetes.
+  - $ curl 10.128.112.26:30010
 ```
 quack
 ```
